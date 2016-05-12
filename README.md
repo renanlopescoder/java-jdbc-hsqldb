@@ -6,7 +6,7 @@ Projeto Java usando JDBC com banco de dados HSQLDB, a API de JDBC (Application P
 
 Encapsulamos o acesso ao banco de dados com DAO (Data Access Object), também foi encapsulado as conexões com o banco na classe ConnectionPool onde criamos um pool conexões e passamos as mesmas para nosso DAO se conectar com nosso banco, com esta implementação podemos mudar o nosso banco apenas alterando nossa classe de conexão a ConnectionPool.
 
-Saiba como configurar o banco de dados HSQLDB em nosso projeto Java: 
+Saiba como configurar o banco de dados HSQLDB em nosso projeto Java: http://renanslopes8.com.br/2016/05/12/configurando-banco-hsqldb-em-seu-projeto-java/
 
 #### Conceitos Aplicados no Projeto ####
  - Conceito de conexão com banco de dados com DriverManager
@@ -29,7 +29,7 @@ Java project using JDBC with HSQLDB database, the JDBC API ( Application Program
 
 Encapsulate access to the database with DAO ( Data Access Object) was also encapsulated connections to the bank in ConnectionPool class where we created a pool connections and pass the same to our DAO to connect with our bank, with this implementation can change the our bank just changing our ConnectionPool the connection class .
 
-Learn how to set up the HSQLDB database in our Java project :
+Learn how to set up the HSQLDB database in our Java project : http://renanslopes8.com.br/2016/05/12/configurando-banco-hsqldb-em-seu-projeto-java/
 
 #### Applied Concepts in Project ####
  - Connection concept with database with DriverManager
